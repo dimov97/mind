@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="21005186-1455-4a62-8cd2-dddc34402c4b" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cS0VcQ1clRUSEuFn0lezQ36urh" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\Desktop\mindnow\img" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="21005186-1455-4a62-8cd2-dddc34402c4b" name="Default Changelist" comment="" />
+      <created>1590506711692</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590506711692</updated>
+      <workItem from="1590506712850" duration="239000" />
+      <workItem from="1590506962298" duration="13000" />
+      <workItem from="1590506976223" duration="3379000" />
+      <workItem from="1590580552078" duration="3840000" />
+      <workItem from="1590588241562" duration="656000" />
+      <workItem from="1590593468082" duration="476000" />
+      <workItem from="1590650561773" duration="18734000" />
+      <workItem from="1590692712389" duration="3483000" />
+      <workItem from="1590733433386" duration="14274000" />
+      <workItem from="1590772738649" duration="5303000" />
+      <workItem from="1590819361053" duration="20745000" />
+      <workItem from="1590907259433" duration="16808000" />
+      <workItem from="1590955980724" duration="1252000" />
+      <workItem from="1590996708428" duration="5364000" />
+      <workItem from="1591128582158" duration="2801000" />
+      <workItem from="1591164410139" duration="421000" />
+      <workItem from="1591217206941" duration="624000" />
+      <workItem from="1591510726939" duration="3000" />
+      <workItem from="1592112846205" duration="598000" />
+      <workItem from="1592404308764" duration="4000" />
+      <workItem from="1592414148414" duration="38000" />
+      <workItem from="1593191369524" duration="5538000" />
+      <workItem from="1593210295607" duration="2225000" />
+      <workItem from="1593247287112" duration="26003000" />
+      <workItem from="1593329135496" duration="14994000" />
+      <workItem from="1593356631649" duration="7105000" />
+      <workItem from="1593412516993" duration="3873000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
